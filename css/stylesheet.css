@@ -1012,7 +1012,7 @@ h3 {
 }
 
 .zeep {
-  margin-top: 88px;
+  margin-top: 105px;
   width: 253px;
   height: 53px;
 }
@@ -1055,13 +1055,13 @@ h3 {
 }
 
 .aboutus h2 {
-  margin: 18% auto;
+  margin: 23% auto;
   text-align: center;
   padding-left: 3%;
   padding-right: 3%;
   color: #3da1e6;
   font-family: 'Open Sans', sans-serif;
-  font-size: 1.4em;
+  font-size: 1.3em;
   font-weight: 300;
   font-style: italic;
   font-smooth:always;
@@ -1075,19 +1075,21 @@ h3 {
 
 .pinpush h3 {
   line-height: 40px;
+  font-size: 1.4em;
+  line-height: 30px;
 }
 
 .pure-button-one {
   padding: 1em 1.7em;
   display: inline-block;
-  margin-right: 5px;
+  margin-right: 0;
   margin-bottom: 10px;
 }
 
 .pure-button-two {
   padding: 1em 2.7em; 
   display: inline-block;
-  margin-left: 5px;
+  margin-left: 0;
 
 }
 
@@ -1134,14 +1136,14 @@ h3 {
 .buttons-flesy .pure-button-one {
   padding: 1em 1.7em;
   display: inline-block;
-  margin-right: 5px;
+  margin-right: 0;
   margin-bottom: 10px;
 }
 
 .buttons-flesy .pure-button-two { 
   padding: 1em 2.7em;
   display: inline-block;
-  margin-left: 5px;
+  margin-left: 0;
 }
 
 /*******************************/
@@ -1169,7 +1171,7 @@ h3 {
   max-width: 480px;
   text-align: center;
   margin: auto;
-  padding-top: 105px;
+  padding-top: 110px;
 }
 
 
