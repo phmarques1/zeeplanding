@@ -896,14 +896,16 @@ h3 {
 }
 
 .pure-button-one {
+  padding: 1em 2.7em;
   display: inline-block;
-  margin-right: 0;
+  margin-right: 5px;
   margin-bottom: 10px;
 }
 
-.pure-button-two { 
+.pure-button-two {
+  padding: 1em 2.7em; 
   display: inline-block;
-  margin-left: 0;
+  margin-left: 5px;
 
 }
 
@@ -948,14 +950,15 @@ h3 {
 }
 
 .buttons-flesy .pure-button-one {
+  padding: 1em 2.7em;
   display: inline-block;
-  margin-right: 0;
+  margin-right: 5px;
   margin-bottom: 10px;
 }
 
 .buttons-flesy .pure-button-two { 
   display: inline-block;
-  margin-left: 0;
+  margin-left: 5px;
 }
 
 /*******************************/
