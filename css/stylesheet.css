@@ -896,7 +896,7 @@ h3 {
 }
 
 .pure-button-one {
-  padding: 1em 2.7em;
+  padding: 1em 1.7em;
   display: inline-block;
   margin-right: 5px;
   margin-bottom: 10px;
@@ -950,13 +950,14 @@ h3 {
 }
 
 .buttons-flesy .pure-button-one {
-  padding: 1em 2.7em;
+  padding: 1em 1.7em;
   display: inline-block;
   margin-right: 5px;
   margin-bottom: 10px;
 }
 
 .buttons-flesy .pure-button-two { 
+  padding: 1em 2.7em;
   display: inline-block;
   margin-left: 5px;
 }
