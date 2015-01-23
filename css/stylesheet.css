@@ -1033,7 +1033,7 @@ h3 {
   padding-left: 1%;
   color: white;
   font-family: 'Open Sans', sans-serif;
-  font-size: 1em;
+  font-size: 1.1em;
   font-weight: 300;
   letter-spacing: 2px;
   line-height: 27px;
@@ -1055,7 +1055,7 @@ h3 {
 }
 
 .aboutus h2 {
-  margin: 17% auto;
+  margin: 18% auto;
   text-align: center;
   padding-left: 3%;
   padding-right: 3%;
@@ -1169,7 +1169,7 @@ h3 {
   max-width: 480px;
   text-align: center;
   margin: auto;
-  padding-top: 90px;
+  padding-top: 105px;
 }
 
 
