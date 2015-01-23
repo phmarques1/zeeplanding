@@ -811,9 +811,9 @@ h3 {
 }
 
 h2 {
-  margin-top: 50px;
-  padding-right: 1%;
-  padding-left: 1%;
+  margin: 50px auto 0;
+  padding-right: 0;
+  padding-left: 0;
   text-align: center;
   font-size: 1.6em;
   font-weight: 800;
@@ -822,14 +822,14 @@ h2 {
 
 h3 {
   text-align: center;
-  padding-right: 1%;
-  padding-left: 1%;
+  padding-right: 0;
+  padding-left: 0;
   color: white;
   font-family: 'Open Sans', sans-serif;
   font-size: 0.9em;
   font-weight: 300;
   letter-spacing: 2px;
-  line-height: 25px;
+  line-height: 2px;
 }
 
 /*******/
@@ -970,10 +970,10 @@ h3 {
   text-align: center;
   color: #fff;
   font-family: 'Open Sans', sans-serif;
-  font-size: 2.3em;
+  font-size: 1.6em;
   font-weight: 800;
   letter-spacing: 4px;
-  line-height: 60px;
+  line-height: 40px;
 }
 
 .contact-wrap p {
@@ -984,7 +984,7 @@ h3 {
   text-align: center;
   color: #fff;
   font-family: 'Open Sans', sans-serif;
-  font-size: 1.1em;
+  font-size: 1em;
   font-weight: 300;
   letter-spacing: 2px;
 }
@@ -1193,10 +1193,10 @@ h3 {
   text-align: center;
   color: #fff;
   font-family: 'Open Sans', sans-serif;
-  font-size: 1.7em;
+  font-size: 2.2em;
   font-weight: 800;
   letter-spacing: 4px;
-  line-height: 40px;
+  line-height: 50px;
 }
 
 .contact-wrap p {
@@ -1207,7 +1207,7 @@ h3 {
   text-align: center;
   color: #fff;
   font-family: 'Open Sans', sans-serif;
-  font-size: 1em;
+  font-size: 1.1em;
   font-weight: 300;
   letter-spacing: 2px;
 }
