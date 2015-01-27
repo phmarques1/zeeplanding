@@ -475,7 +475,7 @@ h3 {
 /*******/
 
 .about {
-  height: 300px;
+  height: 350px;
   background-color: rgb(248,248,248);
   border-bottom: 1px solid rgb(220,220,220);
   width: 100%;
@@ -488,10 +488,10 @@ h3 {
 }
 
 .aboutus h2 {
-  margin: 13% auto;
+  margin: 9% auto 3%;
   text-align: center;
-  padding-left: 13%;
-  padding-right: 13%;
+  padding-left: 0;
+  padding-right: 0;
   color: #3da1e6;
   font-family: 'Open Sans', sans-serif;
   font-size: 1.6em;
@@ -501,6 +501,27 @@ h3 {
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0;
   line-height: 40px;
+}
+
+.aboutus p {
+  padding-left: 12%;
+  padding-right: 12%;
+  font-size: 1.2em;
+  position: relative;
+  z-index: 99;
+  line-height: 35px;
+}
+
+.tools-left {
+  z-index: 0;
+  margin-left: -25%;
+
+}
+
+.tools-right {
+  z-index: 0;
+  margin-right: -23%;
+
 }
 
 
@@ -661,7 +682,7 @@ h3 {
 /*******/
 
 .about {
-  height: 280px;
+  height: 350px;
   background-color: rgb(248,248,248);
   border-bottom: 1px solid rgb(220,220,220);
   width: 100%;
@@ -674,13 +695,13 @@ h3 {
 }
 
 .aboutus h2 {
-  margin: 17% auto;
+  margin: 10% auto 5%;
   text-align: center;
-  padding-left: 3%;
-  padding-right: 3%;
+  padding-left: 0;
+  padding-right: 0;
   color: #3da1e6;
   font-family: 'Open Sans', sans-serif;
-  font-size: 1.5em;
+  font-size: 1.4em;
   font-weight: 300;
   font-style: italic;
   font-smooth:always;
@@ -689,6 +710,28 @@ h3 {
   line-height: 35px;
 }
 
+.aboutus p {
+  padding-left: 10%;
+  padding-right: 10%;
+  font-size: 1.1em;
+  position: relative;
+  z-index: 99;
+  line-height: 30px;
+}
+
+.tools-left {
+  z-index: 0;
+  margin-left: -32%;
+  margin-top: -150px;
+
+}
+
+.tools-right {
+  z-index: 0;
+  margin-right: -30%;
+  margin-top: -150px;
+
+}
 
 /*********************************************************************/
 
@@ -845,21 +888,23 @@ h3 {
 
 h2 {
   text-align: center;
-  margin: 60px auto 0;
+  margin: 40px auto 0;
   padding-right: 0;
   padding-left: 2.5%;
   font-size: 1.6em;
   font-weight: 800;
   letter-spacing: 4px;
+  line-height: 40px;
 }
 
 h3 {
+  margin-top: 30px;
   text-align: center;
-  padding-right: 1px;
-  padding-left: 1px;
+  padding-right: 8.4%;
+  padding-left: 8.4%;
   color: white;
   font-family: 'Open Sans', sans-serif;
-  font-size: 1.1em;
+  font-size: 1em;
   font-weight: 300;
   letter-spacing: 2px;
   line-height: 25px;
@@ -868,7 +913,7 @@ h3 {
 /*******/
 
 .about {
-  height: 280px;
+  height: 450px;
   background-color: rgb(248,248,248);
   border-bottom: 1px solid rgb(220,220,220);
   width: 100%;
@@ -876,18 +921,18 @@ h3 {
 }
 
 .aboutus {
-  max-width: 480px;
+  max-width: 568px;
   margin: auto;
 }
 
 .aboutus h2 {
   margin: 17% auto;
   text-align: center;
-  padding-left: 3%;
-  padding-right: 3%;
+  padding-left: 12%;
+  padding-right: 12%;
   color: #3da1e6;
   font-family: 'Open Sans', sans-serif;
-  font-size: 1.5em;
+  font-size: 1.3em;
   font-weight: 300;
   font-style: italic;
   font-smooth:always;
@@ -896,6 +941,27 @@ h3 {
   line-height: 35px;
 }
 
+.aboutus p {
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-top: -45px;
+  font-size: 1.1em;
+  position: relative;
+  z-index: 99;
+  line-height: 35px;
+}
+
+.tools-left {
+  z-index: 0;
+  margin-left: -52%;
+
+}
+
+.tools-right {
+  z-index: 0;
+  margin-right: -50%;
+
+}
 
 /*********************************************************************/
 
@@ -1051,7 +1117,7 @@ h3 {
 }
 
 h2 {
-  margin-top: 60px;
+  margin-top: 50px;
   padding-right: 3%;
   padding-left: 3%;
   text-align: center;
@@ -1075,7 +1141,7 @@ h3 {
 /*******/
 
 .about {
-  height: 280px;
+  height: 450px;
   background-color: rgb(248,248,248);
   border-bottom: 1px solid rgb(220,220,220);
   width: 100%;
@@ -1088,10 +1154,10 @@ h3 {
 }
 
 .aboutus h2 {
-  margin: 23% auto;
+  margin: 17% auto;
   text-align: center;
-  padding-left: 3%;
-  padding-right: 3%;
+  padding-left: 12%;
+  padding-right: 12%;
   color: #3da1e6;
   font-family: 'Open Sans', sans-serif;
   font-size: 1.3em;
@@ -1101,6 +1167,28 @@ h3 {
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0;
   line-height: 35px;
+}
+
+.aboutus p {
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-top: -45px;
+  font-size: 1.1em;
+  position: relative;
+  z-index: 99;
+  line-height: 35px;
+}
+
+.tools-left {
+  z-index: 0;
+  margin-left: -40%;
+
+}
+
+.tools-right {
+  z-index: 0;
+  margin-right: -30%;
+
 }
 
 
@@ -1259,7 +1347,7 @@ h3 {
 }
 
 .zeep {
-  margin-top: 88px;
+  margin-top: 98px;
   width: 253px;
   height: 53px;
 }
@@ -1289,7 +1377,7 @@ h3 {
 /*******/
 
 .about {
-  height: 280px;
+  height: 450px;
   background-color: rgb(248,248,248);
   border-bottom: 1px solid rgb(220,220,220);
   width: 100%;
@@ -1304,17 +1392,39 @@ h3 {
 .aboutus h2 {
   margin: 17% auto;
   text-align: center;
-  padding-left: 3%;
-  padding-right: 3%;
+  padding-left: 12%;
+  padding-right: 12%;
   color: #3da1e6;
   font-family: 'Open Sans', sans-serif;
-  font-size: 1.5em;
+  font-size: 1.3em;
   font-weight: 300;
   font-style: italic;
   font-smooth:always;
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0;
   line-height: 35px;
+}
+
+.aboutus p {
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-top: -45px;
+  font-size: 1.1em;
+  position: relative;
+  z-index: 99;
+  line-height: 35px;
+}
+
+.tools-left {
+  z-index: 0;
+  margin-left: -30%;
+
+}
+
+.tools-right {
+  z-index: 0;
+  margin-right: -25%;
+
 }
 
 
